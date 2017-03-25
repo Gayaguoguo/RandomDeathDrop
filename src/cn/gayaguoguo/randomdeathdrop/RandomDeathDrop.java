@@ -61,7 +61,6 @@ public class RandomDeathDrop extends JavaPlugin implements Listener {
 			}
 			itemPlaceList.add(i);
 		}
-		
 		// 非空物品数量过少，全部掉落
 		if (itemPlaceList.size() <= dropamount){
 			for (Integer i : itemPlaceList){

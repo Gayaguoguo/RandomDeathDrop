@@ -2,7 +2,6 @@ name: RandomDeathDrop
 version: 1.0
 main: cn.gayaguoguo.randomdeathdrop.RandomDeathDrop
 authors: [GayaGuoguo - QQ434522493]
-depend: [MythicMobs]
 commands:
    rdd:
       description: 主要指令
